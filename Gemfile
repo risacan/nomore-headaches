@@ -2,6 +2,3 @@
 source "https://rubygems.org"
 
 gem "dotenv"
-gem "open-weather"
-
-
